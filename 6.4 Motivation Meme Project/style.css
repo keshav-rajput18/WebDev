@@ -1,0 +1,19 @@
+img{
+    margin-left:400px;
+    border: solid white;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h4{
+    color: aliceblue;
+    font-weight: 20;
+    text-align: center;
+}
+*{
+    background-color:black;
+}
+div{
+    margin-top: 50px;
+}
